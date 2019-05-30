@@ -12,3 +12,9 @@
 3、不写扫描时间是马上扫描
 
 4、打开软件点按钮就可以了
+
+### 下载链接
+
+windows版本，其他环境使用自行打包。
+
+链接:https://pan.baidu.com/s/1FNwglqj7zXML76WGo4-ldw 提取码:jgmk
