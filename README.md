@@ -59,7 +59,7 @@ txt里的IP地址是一行一个，这样的：
 下载是Windows版本的，其他版本自行下载打包：
 
 ```code
-链接:https://pan.baidu.com/s/1FNwglqj7zXML76WGo4-ldw 提取码:jgmk
+服务器被墙，走CDN速度会慢：https://load.zhitiao.online/
 ```
 
 源码：
